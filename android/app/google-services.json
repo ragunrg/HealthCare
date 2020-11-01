@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840347908968",
+    "firebase_url": "https://healthexpert-7f1d7.firebaseio.com",
+    "project_id": "healthexpert-7f1d7",
+    "storage_bucket": "healthexpert-7f1d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840347908968:android:b4b8f0ab9a9df6534234dd",
+        "android_client_info": {
+          "package_name": "com.ragunrg.health_expert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840347908968-017g1n26v4re0ththqk0lvnkavq1p25e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ragunrg.health_expert",
+            "certificate_hash": "b853e3e64e8ad7b6379715f4d856722682fd9dcb"
+          }
+        },
+        {
+          "client_id": "840347908968-s3j6hm6bihbraculli8ctr2jlaq698u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtruJWQnXbueDVDw1btuie5bFLFRmzzpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840347908968-s3j6hm6bihbraculli8ctr2jlaq698u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

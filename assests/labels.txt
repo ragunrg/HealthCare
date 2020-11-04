@@ -1,0 +1,23 @@
+0  Acne and Rosacea
+1  Actinic Keratosis Basal Cell Carcinoma
+2  Atopic Dermatitis
+3  Bullous Disease
+4  Cellulitis Impetigo and other Bacterial Infections
+5  Eczema
+6  Exanthems and Drug Eruptions
+7  Hair Loss Photos Alopecia and other Hair Diseases
+8  Herpes HPV
+9  Light Diseases and Disorders of Pigmentation
+10 Lupus and other Connective Tissue diseases
+11 Melanoma Skin Cancer Nevi and Moles
+12 Nail Fungus and other Nail Disease
+13 Poison Ivy Photos and other Contact Dermatitis
+14 Psoriasis pictures Lichen Planus 
+15 Scabies Lyme Disease 
+16 Seborrheic Keratoses and other Benign Tumors
+17 Systemic Disease
+18 Tinea Ringworm Candidiasis
+19 Urticaria Hives
+20 Vascular Tumors
+21 Vasculitis 
+22 Warts Molluscum and other Viral Infections

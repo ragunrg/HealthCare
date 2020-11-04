@@ -47,6 +47,10 @@ dependencies:
   flutter_svg: ^0.18.0
   sqflite: ^1.3.0
   location: ^3.0.2
+  firebase_messaging: ^7.0.3
+  image_picker: ^0.6.7+12
+  tflite: ^1.1.1
+  meta: ^1.2.3
   path: ^1.7.0
   path_provider: ^1.6.18
   flutter_open_whatsapp: ^0.1.2
@@ -66,6 +70,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assests/model_unquant.tflite
+    - assests/labels.txt
     - assests/heart-care-1040229.svg
     - assests/safety-43931.svg
     - assests/1.jpg

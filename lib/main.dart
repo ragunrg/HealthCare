@@ -7,10 +7,22 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'splash.dart';
 import 'package:location/location.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
+  final fbm = FirebaseMessaging();
+  fbm.requestNotificationPermissions();
+  fbm.configure(onMessage: (msg) {
+    print(msg);
+    return;
+  }, onLaunch: (msg) {
+    print(msg);
+    return;
+  }, onResume: (msg) {
+    print(msg);
+    return;
+  });
   await Hive.initFlutter();
   await Hive.openBox<int>('steps');
   await Firebase.initializeApp();
